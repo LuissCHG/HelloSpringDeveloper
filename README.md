@@ -1,8 +1,10 @@
-# Getting Started
-
+# HellloSpring Developer
+### Summary
+Sample Application illustrating Spring Boot Initializer capabilities for basic REST API generation and configuration
 ### Reference Documentation
-
 For further reference, please consider the following sections:
+
+
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.2.4/maven-plugin/reference/html/)
